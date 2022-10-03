@@ -3,6 +3,8 @@ import CSSDay1 from "@/components/CSSDay1.vue";
 import CSSDay2 from "@/components/CSSDay2.vue";
 import CSSDay3 from "@/components/CSSDay3.vue";
 import CSSDay4 from "@/components/CSSDay4.vue";
+import CSSDay5 from "@/components/CSSDay5.vue";
+import CSSDay6 from "@/components/CSSDay6.vue";
 </script>
 
 <template>
@@ -18,6 +20,12 @@ import CSSDay4 from "@/components/CSSDay4.vue";
     </div>
     <div class="grid__item">
       <CSSDay4></CSSDay4>
+    </div>
+    <div class="grid__item">
+      <CSSDay5></CSSDay5>
+    </div>
+    <div class="grid__item">
+      <CSSDay6></CSSDay6>
     </div>
   </div>
 </template>
