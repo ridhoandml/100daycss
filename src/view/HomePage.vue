@@ -1,12 +1,14 @@
 <script setup lang="ts">
-import CSSDay1 from "@/components/CSSDay1.vue";
-import CSSDay2 from "@/components/CSSDay2.vue";
-import CSSDay3 from "@/components/CSSDay3.vue";
-import CSSDay4 from "@/components/CSSDay4.vue";
-import CSSDay5 from "@/components/CSSDay5.vue";
-import CSSDay6 from "@/components/CSSDay6.vue";
-import CSSDay7 from "@/components/CSSDay7.vue";
-import CSSDay10 from "@/components/CSSDay10.vue";
+import {
+  CSSDay1,
+  CSSDay2,
+  CSSDay3,
+  CSSDay4,
+  CSSDay5,
+  CSSDay6,
+  CSSDay7,
+  CSSDay10,
+} from "@/components/css-challenge";
 </script>
 
 <template>

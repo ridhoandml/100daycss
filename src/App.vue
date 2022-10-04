@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import GridView from "@/view/GridView.vue";
+import HomePage from "@/view/HomePage.vue";
 </script>
 
 <template>
   <div>
-    <GridView></GridView>
+    <HomePage></HomePage>
   </div>
 </template>
 
