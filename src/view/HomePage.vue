@@ -8,6 +8,8 @@ import {
   CSSDay6,
   CSSDay7,
   CSSDay10,
+  CSSDay12,
+  CSSDay13,
 } from "@/components/css-challenge";
 import NavigationBar from "../components/NavigationBar.vue";
 import FooterBar from "../components/FooterBar.vue";
@@ -18,6 +20,7 @@ import FooterBar from "../components/FooterBar.vue";
   <div class="grid">
     <div class="grid__item">
       <CSSDay1></CSSDay1>
+      <p>WKWKWK</p>
     </div>
     <div class="grid__item">
       <CSSDay2></CSSDay2>
@@ -39,6 +42,12 @@ import FooterBar from "../components/FooterBar.vue";
     </div>
     <div class="grid__item">
       <CSSDay10></CSSDay10>
+    </div>
+    <div class="grid__item">
+      <CSSDay12></CSSDay12>
+    </div>
+    <div class="grid__item">
+      <CSSDay13></CSSDay13>
     </div>
   </div>
   <FooterBar />

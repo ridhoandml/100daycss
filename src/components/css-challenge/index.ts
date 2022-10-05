@@ -40,3 +40,13 @@ export const CSSDay10 = defineAsyncComponent({
   loader: () => import("@/components/css-challenge/CSSDay10.vue"),
   loadingComponent: SekeletonContainer,
 });
+
+export const CSSDay12 = defineAsyncComponent({
+  loader: () => import("@/components/css-challenge/CSSDay12.vue"),
+  loadingComponent: SekeletonContainer,
+});
+
+export const CSSDay13 = defineAsyncComponent({
+  loader: () => import("@/components/css-challenge/CSSDay13.vue"),
+  loadingComponent: SekeletonContainer,
+});
