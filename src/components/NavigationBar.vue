@@ -22,6 +22,13 @@
   top: 0;
   background-color: white;
   z-index: 100;
+  width: 400px;
+}
+
+@media only screen and (min-width: 400px) {
+  .navbar {
+    width: 100%;
+  }
 }
 
 .nav__left {

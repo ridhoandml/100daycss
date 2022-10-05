@@ -19,12 +19,17 @@
   justify-content: space-between;
   align-items: flex-end;
   height: 18rem;
-  padding: 3rem;
+  padding: 2rem 1rem;
   margin-top: 1rem;
   cursor: default;
   clip-path: polygon(0% 40%, 0% 100%, 100% 100%, 100% 0%);
   background-color: white;
   color: #0f172a;
+  width: 400px;
+}
+
+.footer__text {
+  font-size: 0.875rem;
 }
 
 .text__right {
@@ -65,5 +70,16 @@
 .footer__text > a:hover::after {
   height: 1.75rem;
   border-radius: 0;
+}
+
+@media only screen and (min-width: 400px) {
+  .footer {
+    padding: 3rem;
+    width: 100%;
+  }
+
+  .footer__text {
+    font-size: 1rem;
+  }
 }
 </style>
