@@ -9,9 +9,12 @@ import {
   CSSDay7,
   CSSDay10,
 } from "@/components/css-challenge";
+import NavigationBar from "../components/NavigationBar.vue";
+import FooterBar from "../components/FooterBar.vue";
 </script>
 
 <template>
+  <NavigationBar />
   <div class="grid">
     <div class="grid__item">
       <CSSDay1></CSSDay1>
@@ -38,6 +41,7 @@ import {
       <CSSDay10></CSSDay10>
     </div>
   </div>
+  <FooterBar />
 </template>
 
 <style scoped>
@@ -46,6 +50,7 @@ import {
   grid-template-columns: auto;
   grid-template-rows: auto;
   gap: 2rem;
+  padding: 4rem 0;
 }
 
 @media only screen and (min-width: 900px) {
