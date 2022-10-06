@@ -13,6 +13,8 @@ import HomePage from "@/view/HomePage.vue";
 
 @import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
 
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0");
+
 * {
   box-sizing: border-box;
   margin: 0;

@@ -27,13 +27,11 @@
   height: 400px;
 }
 
-/* use only the available space inside the 400x400 frame */
 .frame {
   position: absolute;
   width: 400px;
   height: 400px;
   border-radius: 2px;
-  box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.1);
   overflow: hidden;
   background: #fff;
   color: #333;

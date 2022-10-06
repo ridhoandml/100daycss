@@ -2,13 +2,18 @@
   <div class="footer">
     <p class="footer__text text__left">
       Thanks to
-      <a class="divider" href="https://100dayscss.com/">Matthias Martin</a>
+      <a class="divider" href="https://100dayscss.com/" target="_blank"
+        >Matthias Martin</a
+      >
       Creator 100 Days CSS
     </p>
     <p class="footer__text text__right">
       Made with ❤️ by
-      <a class="divider" href="https://ridhoandml.com">Ridho Anandamal</a> using
-      <a href="https://vuejs.org/">VueJS 3</a>
+      <a class="divider" href="https://ridhoandml.com" target="_blank"
+        >Ridho Anandamal</a
+      >
+      using
+      <a href="https://vuejs.org/" target="_blank">VueJS 3</a>
     </p>
   </div>
 </template>

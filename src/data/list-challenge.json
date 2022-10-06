@@ -1,0 +1,82 @@
+{
+	"data": [
+		{
+			"day": 1,
+			"name": "100 Days CSS",
+			"link": "https://codepen.io/ridhoandml/pen/BaxrVGZ",
+			"component": "CSSDay1"
+		},
+		{
+			"day": 2,
+			"name": "Menu Icon",
+			"link": "https://codepen.io/ridhoandml/details/poVLYEQ",
+			"component": "CSSDay2"
+		},
+		{
+			"day": 3,
+			"name": "The Pyramide",
+			"link": "https://codepen.io/ridhoandml/pen/xxjjbqL",
+			"component": "CSSDay3"
+		},
+		{
+			"day": 4,
+			"name": "Loading",
+			"link": "https://codepen.io/ridhoandml/pen/wvjjapo",
+			"component": "CSSDay4"
+		},
+		{
+			"day": 5,
+			"name": "Statistic",
+			"link": "https://codepen.io/ridhoandml/pen/BaxxPbV",
+			"component": "CSSDay5"
+		},
+		{
+			"day": 6,
+			"name": "Profile",
+			"link": "https://codepen.io/ridhoandml/pen/yLjjwdW",
+			"component": "CSSDay6"
+		},
+		{
+			"day": 7,
+			"name": "Notifications, Search and Menu",
+			"link": "https://codepen.io/ridhoandml/pen/rNvvXXm",
+			"component": "CSSDay7"
+		},
+		{
+			"day": 8,
+			"name": "Metaballs",
+			"link": null,
+			"component": "CSSDay8"
+		},
+		{
+			"day": 9,
+			"name": "Rainy Night",
+			"link": null,
+			"component": "CSSDay9"
+		},
+		{
+			"day": 10,
+			"name": "Watch",
+			"link": "https://codepen.io/ridhoandml/pen/xxjzMZP",
+			"component": "CSSDay10"
+		},
+		{
+			"day": 11,
+			"name": "Walking Boots",
+			"link": null,
+			"component": "CSSDay11"
+		},
+		{
+			"day": 12,
+			"name": "Tooltip",
+			"link": "https://codepen.io/ridhoandml/details/BaxPZMd",
+			"component": "CSSDay12"
+		},
+		{
+			"day": 13,
+			"name": "User Gallery",
+			"link": "https://codepen.io/ridhoandml/pen/NWMLWrR",
+			"component": "CSSDay13"
+		}
+	]
+}

@@ -41,7 +41,7 @@
 .nav__left > p {
   text-transform: uppercase;
   font-size: 1.25rem;
-  font-weight: 100;
+  font-weight: 300;
   letter-spacing: 2px;
   color: #0f172a;
   cursor: default;

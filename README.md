@@ -17,8 +17,8 @@ You can check live version on [my website](https://100css.ridhoandml.com) or [Co
 - [ ] Day #9: Rainy Night
 - [x] Day #10: Watch
 - [ ] Day #11: Walking Boots
-- [ ] Day #12: Tooltip
-- [ ] Day #13: User Gallery
+- [x] Day #12: Tooltip
+- [x] Day #13: User Gallery
 - [ ] Day #14: Byciclopter
 - [ ] Day #15: Upload
 - [ ] Day #16: Blobby
