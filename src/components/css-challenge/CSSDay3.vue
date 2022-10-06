@@ -29,7 +29,6 @@
   width: 400px;
   height: 400px;
   border-radius: 2px;
-  box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.1);
   overflow: hidden;
   background: #515151;
   color: #333;
