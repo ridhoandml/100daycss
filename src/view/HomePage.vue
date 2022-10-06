@@ -20,7 +20,6 @@ import FooterBar from "../components/FooterBar.vue";
   <div class="grid">
     <div class="grid__item">
       <CSSDay1></CSSDay1>
-      <p>WKWKWK</p>
     </div>
     <div class="grid__item">
       <CSSDay2></CSSDay2>
